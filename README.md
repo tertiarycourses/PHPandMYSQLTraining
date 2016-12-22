@@ -1,4 +1,4 @@
-# Python Essential Training
+# PHP Essential Training
 ## by [Tertiary Infotech Pte. Ltd] (https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [PHP Essential Training](https://www.tertiarycourses.com.sg/php-essential-training.html) course. 
